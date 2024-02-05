@@ -1,1 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+<style>
+body {background-color: White;}
+h1 {color: Black}
+h2 {color: Black}
+p {color: red}
+</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Kotzbauer Web Dev Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+<body>
+    <h1> Jeremy Kotzbauer's IT240 Web Development Portfolio 2024.</h1>
+	<h2>University of Cincinnati Early IT S2 2025.<h2>
 
+	<img src="images/Phonk paper.jpg" alt="Phonk Paper">
+	
+	<h2>Green Pastures Case Study Labs<h2>
+	<ul>
+	<li><a href="https://www.Google.com">Module 1</a></li>
+	<li><a href="https://www.Google.com">Module 2</a></li>
+	<li><a href="https://www.Google.com">Module 3</a></li>
+	</ul>
+	<hr style= "width:50%;text-align:left;margin-left:0">
+	<h2>Final Project Deliverables <h2>
+	<ul>
+	<li><a href="https://www.Google.com">Project_Milestone_1</a></li>
+	<li><a href="https://www.Google.com">Project_Milestone_2</a></li>
+	<li><a href="https://www.Google.com">Project_Milestone_3</a></li>
+	<li><a href="https://www.Google.com">Final Project Website</a></li>
+	</ul>
+	<hr style= "width:50%;text-align:left;margin-left:0">
+	<a href="https://jeremykcrucial.github.io/kotzbauer_webdev24/Green_Pastures_Lab1/">Green Pastures Lab 1</a>
+	<script src="index.js"></script>
+	</body>
+</html>
