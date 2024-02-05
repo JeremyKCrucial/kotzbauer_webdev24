@@ -11,7 +11,7 @@ h2 {color: Black}
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Kotzbauer Web Dev Portfolio</title>
-    <link rel="stylesheet" href="gpst">
+    <link rel="stylesheet" href="gpst.css">
   </head>
 <body>
     <h1> Jeremy Kotzbauer's IT240 Web Development Portfolio 2024.</h1>
