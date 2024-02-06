@@ -5,7 +5,7 @@
 body {background-color: White;}
 h1 {color: Black}
 h2 {color: Black}
-<p><span style="color:Green">Green</span> Pasture Stable and Training.</p>
+<br> <p><span style="color:Green">Green Pasture Stable and Training.</span></p>
 </style>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
