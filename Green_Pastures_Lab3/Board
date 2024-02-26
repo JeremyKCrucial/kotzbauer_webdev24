@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+<style>
+body {background-color: White;}
+h1 {color: Black}
+h2 {color: Black}
+.barn {
+background-color: #00B386;
+  color: white;
+  margin: 0px;
+  padding: 5px;
+}
+
+.contact {
+background-color: #70DBDB;
+  color: white;
+  margin: 0px;
+  padding: 3px;	
+}
+
+.text {
+background-color: White;
+  color: lightgreen;
+  margin: 10px;
+  padding: 3px;	
+}
+
+</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Kotzbauer Green Pastures Lab 2</title>
+    <link rel="stylesheet" href="GSPT.css">
+ </head>
+	
+	<body>
+<div class="barn"><h1><span style="color:white">Green Pasture Stable and Training</span></h1></div>
+
+		
+<div class="contact" 
+<span><h3><a href="https://jeremykcrucial.github.io/kotzbauer_webdev24/Green_Pastures_Lab2/">Home</a> <a href="#">Board</a> <a href="https://jeremykcrucial.github.io/kotzbauer_webdev24/Green_Pastures_Lab2/training.html">Training</a> <a href="#">Contact Us</a></h3></span>
+</div>
+
+<div class="text">
+<h1><span style="color:Green">Board and Training Packages</span></h1>
+</div>
+
+<nav>
+<img src= "images/board.jpg" alt="board" height = 250px width = 350px>
+</nav>
+		
+<h2><span style="color:Green">Full Service Board</span></h2>
+<p><h3>Full care board includes a 12x12 stall, daily still cleaning, twice daily feeding of grain and supplements and hay, daily turn out.
+All stall bedding, hay, and grain included in your board.</h3></p>
+<h2><span style="color:Green">Partial Board</span></h2>
+<p><h3>Partial board includes a 12x12 stall, twice daily feeding of grain and supplements and supplements. All stall bedding, grain and hay are included in your board.
+With artial board you are responsible for cleaning your own stalls at least once a day.
+	Partial boards who fail to clean their stallls will be cleaned by staff and be charged additionally.</h3></p>
+<h2><span style="color:Green">Pasture Board</span></h2>
+<p><h3>Horses on pasture boards will have free roam to 20 arces of land and have access to several run-in shelters. Grain, hay, and water is provided as part of your
+pasture board. Blanketing is avalible for an additional charge, as needed.</h3></p>
+<br>
+<br>
+<h4><i>Copyright © University of Cincinnati, IT2040</i></h4>
+<h4><i><a href="#">JeremyKotzbauer@Gmail.com</a></i></h4>
+<script src="index.js"></script>
+	</body>
+</html>
